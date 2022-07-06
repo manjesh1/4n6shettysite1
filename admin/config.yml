@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: manjesh1/manjesh1.github.io
+  repo: manjesh1/4n6shettysite1
   branch: master
   site_domain: merry-speculoos-58c709.netlify.app
 
