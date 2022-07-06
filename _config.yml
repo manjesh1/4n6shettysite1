@@ -23,7 +23,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile1.png
+firstauthor_logo: profile1.png
 author: Mozshetty
 author_bio:  Hi, My name is Mozshetty, welcome to 4N6Shetty Blog!!! :D
 author_email: "4n6shetty@pm.me"
