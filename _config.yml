@@ -1,7 +1,6 @@
-title: devlopr
+title: 4N6SHETTY
 subtitle: Hi I'm Moz, Welcome to 4N6SHETTY
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -25,11 +24,11 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile1.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
+author: Mozshetty
+author_bio:  Hi, My name is Mozshetty, welcome to 4N6Shetty Blog!!! :D
+author_email: "4n6shetty@pm.me"
 author_location: India
-author_website_url: "https://sujaykundu.com"
+author_website_url: "www.gopcsoft.com"
 typewrite-text: Hi, My name is Mozshetty, welcome to 4N6Shetty Blog!!!
 hero_cover_img: covershetty.png # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
@@ -49,26 +48,6 @@ author_work_experiences:
               visibility: true
 
 # Education
-author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
-                visibility: true
-
-# Projects
-author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
-                visibility: true
 
 # social links
 twitter_username: johndoe
